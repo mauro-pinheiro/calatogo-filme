@@ -1,0 +1,20 @@
+Selecione uma categoria:
+Seções:
+    - Aventura
+    - Drama
+    - Ficção
+
+Aventura
+    - Avatar
+    - Sherlock Homes
+    - Os Vingadores
+
+Drama
+    - Batman
+    - Forrest Camp
+    - Drive
+
+Ficção
+    - Matrix
+    - Exterminador do Futuro
+    - Star Wars
